@@ -1,0 +1,6 @@
+requests
+streamlit
+pydub
+audiocraft
+transformers
+torch

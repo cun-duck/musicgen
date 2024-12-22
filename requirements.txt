@@ -1,7 +1,7 @@
-requests==2.28.1
-streamlit==1.19.0
-pydub==0.25.1
-audiocraft==0.0.4
-transformers==4.29.2
-torch==2.1.0
-pillow==9.3.0
+requests
+streamlit
+pydub
+audiocraft
+transformers
+torch
+pillow
